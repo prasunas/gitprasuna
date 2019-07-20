@@ -1,0 +1,53 @@
+I am also contributing to your project. 
+Please report following issues in JIRA
+Scalehouse: Server ID not working randomly
+Scalehouse: Login Screen: User details (on top of site) are not displayed in login screen.
+Scalehouse: Login Screen: User name place holder text is not displayed in login screen. Also 'Remember me' and check box are not properly aligned. When Check box is highlighted then it is not appearing properly.
+Scalehouse: Entire Application: Validation messages options are not properly aligned. Buttons text are right aligned instead of center.
+Scalehouse: Main Menu: White space can be seen beside text at the bottom of each Icon. Also header at the top needs to have bigger font.
+Scalehouse: ByProduct Trailer: Trailer Weighing Tare: Username displayed at the top is hardcoded to 'Mtownsend' and is not the one user logged in.
+Scalehouse: ByProduct Trailer: Trailer Weighing Tare: Product Dropdown\Entire application: Empty values are present in drop down instead of select option.
+Scalehouse: ByProduct Trailer: Trailer Weighing Tare: Product Dropdown: Previously selected values are staying on in the screen if user returns from previous screen.
+Scalehouse: ByProduct Trailer: Trailer Weighing Tare: Manual: Application is not accepting manual weight values. It is always throwing validation error to capture tare weight.
+Scalehouse: ByProduct Trailer: Trailer Weighing Tare: Manual: Eventhough manual values are inputted, application is not displaying H beside weight.
+Scalehouse: ByProduct Trailer: Trailer Weighing Tare: Manual: Application is not saving values entered saying 'cannot insert duplicate values' when user tries to enter manual weight after automatic weight capture.
+Scalehouse: ByProduct Trailer: Trailer Weighing Tare: Manual: Weights are getting rounded off to 2 decimal values (Ex: 22.245 is displaying as 22.25)
+Scalehouse: Certificates: Radio box selection is not proper. It does not clearly indicates selection.
+Scalehouse: Certificates: If user exits from VM and reconnects then options displayed at the left are going down and unable to filter.
+Scalehouse: Certificates: By Product Trailer: Application is displaying same certificate numbers for all certificates.
+Scalehouse: Certificates: By Product Trailer: On navigating to By Product Trailer screen from certificates screen, application is not displying certificate number.
+Scalehouse: ByProduct Trailer: Trailer Weighing Tare: Automatic: User can input values in automatic tare weight field.
+Scalehouse: Paddy Receipts: Multiple UI issues in paddy receipts screen
+i. Alignment of label - Grade is not vertically inline with others
+ii. Default percentages are present within the input fields not outside.
+iii. Origin weights and sunfoods scale weights positions are interchanged and hence vertical UI alignment is missed.
+Scalehouse: Entire Application: Take Weight: Application is displaying improper error when weight is not captured automatically.
+Scalehouse: Paddy Receipts: Even though all the values are properly inputted, application is displaying failed message. "Unable to convert decimal value to integer".
+Scalehouse: Paddy Receipts: Take Weight: Application is not taking manual weight entry into consideration.
+Scalehouse: Entire Application: Session expiry is not happening in the application
+Scalehouse: Paddy Receipt: Tare Weight and Net weights in 'Sunfoods scale weights' section are not displayed.
+Scalehouse: Paddy Receipt: Moisture field, Damage, Heat Damage, Weights are not accepting decimal values.
+Scalehouse: Certificates: Once user scrolls down and taps on any item then screen is getting auto scrolled to top.
+Scalehouse: Paddy Receipt: Eventhough weight value is changed, previously inputted value is only taken into consideration.
+Input 22 as manual weight in first attempt and notice any validation error. Rectify error and change weight to 21 but notice that saved certificate still shows weight as 22.
+Scalehouse: Paddy Receipt: If user returns from certificate screen and inputs tare in weight then application is not calculating net weight. Because of this application is not navigating further.
+Scalehouse: Certificates: Eventhough all the certificates are removed and none present, count is still displaying as 2.
+Scalehouse: ByProduct Trailer: Tare weight is editable. Also the indicator value is always displayed as S eventhough manual weight is inputted.
+Scalehouse: Certificates: If recall is selected to view byProduct trailer details then all of them are not populated.
+Scalehouse: Certificates: Sunfoods W Cert, Origins W Cert, Time and Truck Lic are not displayed for BYP Trailer. Whereas Time is not displayed for all other transaction types.
+Scalehouse: Certificates: Warehouse From filter: Instead of showing user selected option from drop down list, application is selecting previous option.
+Scalehouse: Certificates: Sunfoods Weight Cert filter\Can # filter: Application is not taking Sunfoods Weight Cert filter or Can# filter into consideration. On inputting number and on click of 'Enter', application is not filtering results. Similarly if date is changed then also results are not filtered directly.
+Scalehouse: Certificates: By Product Trailer - Date: Today's date is displayed in date field even though By Product trailer certificate is created yesterday and date displayed as 16/07/2019 yesterday
+Scalehouse: Certificates: UI is not proper in certificates screen. Header's font needs to be increased. Grey border for columns header is not complete and we can see white spaces at borders. White background displaying certificates text is slightly going out of assigned space
+Scalehouse: Certificates: Inbound Paddy Receipt: On navigating to Inbound Paddy Receipt screen from certificates screen, application is not displying certificate number.
+
+
+
+
+
+
+
+
+
+
+
